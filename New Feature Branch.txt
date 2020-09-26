@@ -1,1 +1,1 @@
-This is a cool new feature!
+This is a cool new feature! Version 2.0!
